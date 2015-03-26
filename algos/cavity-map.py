@@ -34,13 +34,3 @@ if length_is_one is False:
         line += str(maps[i][-1])        
         print line
     print ''.join(map(str,maps[-1]))
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
